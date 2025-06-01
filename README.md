@@ -2,7 +2,7 @@
 
 This project features an interactive sales report dashboard created in Power BI using the Sample Chocolates dataset (dummy data). It showcases business intelligence capabilities with dynamic visualizations and performance insights.
 
-![Dashboard Preview](images/powerbi_dashboard.png)
+![Dashboard Preview](Image/report_preview.png)
 
 ## Key Features
 - Regional and product-wise sales analysis  
