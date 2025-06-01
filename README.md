@@ -4,14 +4,14 @@ This project features an interactive sales report dashboard created in Power BI 
 
 ![Dashboard Preview](images/powerbi_dashboard.png)
 
-## 🔍 Key Features
+## Key Features
 - Regional and product-wise sales analysis  
 - Monthly and yearly performance trends  
 - KPI indicators for quick insights  
 - Interactive filters and slicers  
 - Clean and professional dashboard design
 
-## 🛠️ Tools Used
+## Tools Used
 - Microsoft Power BI  
 - DAX for calculated measures and KPIs  
 
